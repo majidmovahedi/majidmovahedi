@@ -7,7 +7,9 @@
 
 ### About me 😎 
 
-Hi! I'm Majid Movahedi 
+Hi! 
+<br />
+I'm Majid Movahedi 
 <br />
 Coding is not just a profession for me; it’s an integral part of my identity. As a Backend Developer with a focus on JavaScript and Node.js, I am passionate about crafting and optimizing complex, scalable infrastructures.
 Every project represents an opportunity for me to apply my skills and contribute to the advancement of digital experiences. If you are interested in collaborating on innovative technological projects or exchanging creative ideas, I would be delighted to connect.
