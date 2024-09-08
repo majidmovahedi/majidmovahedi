@@ -1,14 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/l7zabeVIt16efVp6wg/giphy.gif" width="200"/>
-  <img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
-  <div id="badges">
-    <a href="https://majidmovahedi.ir/">
-      <img src="https://img.shields.io/badge/Contact-black?style=for-the-badge&logo=About.me&logoColor=white" alt="Contact Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/majidmovahedi/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
+  <img src="https://media4.giphy.com/media/l7zabeVIt16efVp6wg/giphy.gif" width="300"/>
+  <img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
 </div>
 
 <hr/>
