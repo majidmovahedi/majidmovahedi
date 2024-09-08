@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" width="400"/>
+  <img src="https://media4.giphy.com/media/l7zabeVIt16efVp6wg/giphy.gif" width="200"/>
+  <img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://majidmovahedi.ir/">
       <img src="https://img.shields.io/badge/Contact-black?style=for-the-badge&logo=About.me&logoColor=white" alt="Contact Badge"/>
@@ -14,7 +15,8 @@
 
 ### About me 😎 
 
-Hi! I'm Majid Movahedi
+Hi! I'm Majid Movahedi 
+<br />
 Coding is not just a profession for me; it’s an integral part of my identity. As a Backend Developer with a focus on JavaScript and Node.js, I am passionate about crafting and optimizing complex, scalable infrastructures.
 Every project represents an opportunity for me to apply my skills and contribute to the advancement of digital experiences. If you are interested in collaborating on innovative technological projects or exchanging creative ideas, I would be delighted to connect.
 
